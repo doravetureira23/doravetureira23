@@ -1,7 +1,7 @@
 ### Hi there Doraventureira 👋
-### Estou estudando na Alura 👯  
-### Estou
-
+### Estou estudando na Alura   💜(❁´◡`❁)
+### Estou me desenvolvendo na linguagem javascript💜( ´･･)ﾉ(._.)
+### Utilizo esse espaço dos meu projetos desenvolvidos💜(┬┬﹏┬┬)
 ![](link)
 
 <!--
