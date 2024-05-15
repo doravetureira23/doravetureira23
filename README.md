@@ -3,7 +3,8 @@
 ### Estou me desenvolvendo na linguagem javascript **💜( ´･･)ﾉ(._.) **
 ### Utilizo esse espaço dos meu projetos desenvolvidos 
 ![](link)
-<!--
+###Você pode entrar em contato comigo 📫
+###alurastartestudante@email.com
 **doravetureira23/doravetureira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
